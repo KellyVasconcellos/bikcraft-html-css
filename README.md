@@ -18,7 +18,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **bikcraft** é uma lading page de E-commerce criada no curso [HTML e CSS para Iniciantes, Origamid](https://www.origamid.com/curso/html-e-css-para-iniciantes/) com o intuito de colocarmos em prática todo conteúdo estudado durante o curso
+O projeto **bikcraft** é uma lading page de E-commerce criada no curso [HTML e CSS para Iniciantes, Origamid](https://www.origamid.com/curso/html-e-css-para-iniciantes/) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
