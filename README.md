@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/bikcraft/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/bikcraft-html-css/">Acessar Website</a>
 <h3 >
 
 # Indice
@@ -18,16 +18,16 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **bikcraft** é uma lading page de E-commerce criada no curso [HTML e CSS para Iniciantes](https://www.origamid.com) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **bikcraft** é uma lading page de E-commerce (venda de bicicletas) criada no curso [HTML e CSS para Iniciantes](https://www.origamid.com) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
@@ -36,9 +36,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/bikcraft.git
+    $ git clone https://github.com/KellyVasconcellos/bikcraft-html-csst.git
     # Entrar no diretório
-    $ cd bikcraft
+    $ cd bikcraft-html-css
 ```
 
 ---
